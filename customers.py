@@ -1,3 +1,6 @@
+# Reflection questions 1.) I would use .get() when a certain key might not exist and I wanted to avoid any errors. My rule of thumb would be to use bracket notation when the key must exist and .get when there could be missing data.
+# Question 2.) This pattern reminds me of SUMIF from excel because it groups values and calculates totals. Python is better for larger sets of data because it is able to automate the process and can handle a lot more data much more efficiently.
+
 print("--- Exercise 1 ---")
 customer = {
   "name": "Alice",
